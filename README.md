@@ -1,2 +1,2 @@
-# mogenius
-An Script to host telegram bot on mogenius.com
+# ETC Mine
+An Script to Mne ETC on mogenius.com
